@@ -17,3 +17,4 @@ threadpoolctl==3.2.0
 Werkzeug==3.0.1
 cv2==4.5.5
 pywt==1.5.0
+base64==3.10.5
